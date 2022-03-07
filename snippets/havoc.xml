@@ -23,6 +23,19 @@
   <!-- Device -->
   <project path="device/havoc/sepolicy" name="android_device_havoc_sepolicy" remote="havoc" />
 
+  <!-- External -->
+  <project path="external/bash" name="android_external_bash" remote="havoc" />
+  <project path="external/chromium-webview" name="android_external_chromium-webview" remote="havoc" clone-depth="1" />
+  <project path="external/exfatprogs" name="android_external_exfatprogs" remote="havoc" />
+  <project path="external/htop" name="android_external_htop" remote="havoc" />
+  <project path="external/libncurses" name="android_external_libncurses" remote="havoc" />
+  <project path="external/nano" name="android_external_nano" remote="havoc" />
+  <project path="external/tinyxml" name="android_external_tinyxml" remote="havoc" />
+  <project path="external/vim" name="android_external_vim" remote="havoc" />
+
+  <!-- Hardware -->
+  <project path="hardware/havoc/interfaces" name="android_hardware_havoc_interfaces" remote="havoc" />
+
   <!-- Packages -->
   <!-- <project path="packages/apps/ConfigCenter" name="android_packages_apps_ConfigCenter" remote="havoc" /> -->
   <!-- <project path="packages/apps/CustomDoze" name="android_packages_apps_CustomDoze" remote="havoc" /> -->

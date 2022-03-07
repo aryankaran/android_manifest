@@ -36,9 +36,11 @@
   <project path="frameworks/av" name="android_frameworks_av" remote="havoc" />
   <project path="frameworks/base" name="android_frameworks_base" remote="havoc" />
   <project path="frameworks/native" name="android_frameworks_native" remote="havoc" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="havoc" />
   <project path="frameworks/opt/timezonepicker" name="android_frameworks_opt_timezonepicker" remote="havoc" />
 
   <!-- Hardware -->
+  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="havoc" />
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="havoc" />
   <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="havoc" />
   <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="havoc" />
@@ -91,6 +93,7 @@
   <!-- System -->
   <project path="system/bt" name="android_system_bt" remote="havoc" />
   <project path="system/core" name="android_system_core" remote="havoc" />
+  <project path="system/extras" name="android_system_extras" remote="havoc" />
   <project path="system/libziparchive" name="android_system_libziparchive" remote="havoc" />
   <project path="system/logging" name="android_system_logging" remote="havoc" />
   <project path="system/media" name="android_system_media" remote="havoc" />
