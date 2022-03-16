@@ -1109,5 +1109,6 @@
   <include name="snippets/havoc.xml" />
   <include name="snippets/havoc-aosp.xml" />
   <include name="snippets/havoc-caf.xml" />
+  <include name="snippets/trees.xml" />
 
 </manifest>
