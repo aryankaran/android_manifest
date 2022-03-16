@@ -18,7 +18,7 @@
   <remote
     name="havoc-gitlab"
     fetch="https://gitlab.com/Havoc-GApps"
-    revision="twelve" />
+    revision="eleven" />
 
   <!-- Device -->
   <project path="device/havoc/sepolicy" name="android_device_havoc_sepolicy" remote="havoc" />
