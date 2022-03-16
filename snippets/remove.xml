@@ -89,9 +89,11 @@
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/native" />
+  <remove-project name="platform/frameworks/opt/telephony" />
   <remove-project name="platform/frameworks/opt/timezonepicker" />
 
   <!-- Hardware -->
+  <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/camera" />
@@ -141,6 +143,7 @@
   <!-- System -->
   <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
+  <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/libziparchive" />
   <remove-project name="platform/system/logging" />
   <remove-project name="platform/system/media" />
